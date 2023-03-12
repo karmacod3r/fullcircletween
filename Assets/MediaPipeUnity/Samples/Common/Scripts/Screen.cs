@@ -5,6 +5,7 @@
 // https://opensource.org/licenses/MIT.
 
 using System;
+using ITintouch.MediaPipe.ImageSource;
 using UnityEngine;
 using UnityEngine.UI;
 

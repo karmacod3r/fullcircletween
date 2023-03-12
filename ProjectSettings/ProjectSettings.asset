@@ -133,7 +133,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.1.1
+  bundleVersion: 0.2.0
   preloadedAssets:
   - {fileID: 11400000, guid: b02ce5b1f48d7456c9757f8018875066, type: 2}
   - {fileID: 7491906548147302256, guid: 241e5757b9915436984a23b412cecad7, type: 2}
@@ -172,7 +172,7 @@ PlayerSettings:
   stripEngineCode: 0
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
-  ForceInternetPermission: 0
+  ForceInternetPermission: 1
   ForceSDCardPermission: 0
   CreateWallpaper: 0
   APKExpansionFiles: 0

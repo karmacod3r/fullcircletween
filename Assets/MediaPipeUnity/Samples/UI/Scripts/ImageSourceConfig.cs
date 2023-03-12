@@ -7,6 +7,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using ITintouch.MediaPipe.ImageSource;
 using UnityEngine;
 using UnityEngine.UI;
 

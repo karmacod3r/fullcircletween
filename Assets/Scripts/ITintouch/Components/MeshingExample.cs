@@ -9,7 +9,6 @@
 // %BANNER_END%
 
 using System;
-using MagicLeap.Examples;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;

@@ -10,6 +10,7 @@ using System.Linq;
 using UnityEngine;
 
 using Google.Protobuf;
+using ITintouch.MediaPipe.ImageSource;
 
 namespace Mediapipe.Unity.FaceDetection
 {

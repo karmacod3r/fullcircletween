@@ -6,6 +6,7 @@
 
 using System;
 using System.Collections.Generic;
+using ITintouch.MediaPipe;
 using UnityEngine;
 using UnityEngine.UI;
 using Mediapipe.Unity.UI;

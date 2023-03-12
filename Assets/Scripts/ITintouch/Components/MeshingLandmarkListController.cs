@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+using ITintouch.MagicLeap;
+using ITintouch.MediaPipe;
 using Mediapipe;
 using Mediapipe.Unity.PoseTracking;
 using UnityEngine;

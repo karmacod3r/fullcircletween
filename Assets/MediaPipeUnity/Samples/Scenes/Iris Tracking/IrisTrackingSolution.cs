@@ -6,6 +6,7 @@
 
 using System.Collections;
 using System.Collections.Generic;
+using ITintouch.MediaPipe.ImageSource;
 using UnityEngine;
 
 namespace Mediapipe.Unity.IrisTracking

@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using Google.Protobuf.Collections;
+using ITintouch.MagicLeap;
+using ITintouch.MediaPipe;
 using Mediapipe;
 using Mediapipe.Unity.PoseTracking;
 using UnityEngine;

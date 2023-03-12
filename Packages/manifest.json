@@ -1,8 +1,11 @@
 {
   "dependencies": {
     "com.github.homuler.mediapipe": "file:/Users/frank/Downloads/package/com.github.homuler.mediapipe-0.10.3.tgz",
-    "com.magicleap.appsim": "file:/Users/frank/MagicLeap/tools/unity/v1.3.0/com.magicleap.appsim.tgz",
-    "com.magicleap.unitysdk": "file:/Users/frank/MagicLeap/tools/unity/v1.3.0/com.magicleap.unitysdk.tgz",
+    "com.karmacode.fullcircledata": "git@github.com:karmacod3r/fullcircledata.git",
+    "com.karmacode.fullcircletween": "git@github.com:karmacod3r/fullcircletween.git",
+    "com.magicleap.appsim": "file:/Users/frank/MagicLeap/tools/unity/v1.4.0/com.magicleap.appsim.tgz",
+    "com.magicleap.unitysdk": "file:/Users/frank/MagicLeap/tools/unity/v1.4.0/com.magicleap.unitysdk.tgz",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "1.1.1",
     "com.unity.collab-proxy": "2.0.0",
     "com.unity.ide.rider": "3.0.18",

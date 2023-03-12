@@ -11,7 +11,7 @@
 using UnityEngine;
 using UnityEngine.XR.MagicLeap;
 
-namespace MagicLeap.Examples
+namespace ITintouch.Components
 {
     /// <summary>
     /// This class allows you to change meshing properties at runtime, including the rendering mode.

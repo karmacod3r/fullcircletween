@@ -10,7 +10,7 @@ namespace ITintouch.Components
             var mainCamera = Camera.main;
             if (mainCamera == null) return;
             
-            transform.LookAt(mainCamera.transform);
+            transform.rotation = Quaternion.LookRotation(mainCamera.transform.forward, Vector3.up);  
         }
     }
 }
